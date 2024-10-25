@@ -1,4 +1,4 @@
-# hello world 
+10/25/25: Created basic.js react app 
 
-# TODO: 
-
+TODO: 
+Create more complicated React application

@@ -1,3 +1,5 @@
+import React from 'react';
+
 function MyButton() {
   return (
     <button>
@@ -9,7 +11,7 @@ function MyButton() {
 export default function MyApp() {
   return (
     <div>
-      <hi>Welcome to my app</hi>
+      <h1>Welcome to my app</h1>
       <MyButton />
     </div>
   );
